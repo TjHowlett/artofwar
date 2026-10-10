@@ -12,8 +12,12 @@ const MODEL = "claude-sonnet-5-5";                 // the one place the model na
 const API_URL = "https://api.anthropic.com/v1/messages";
 const API_VERSION = "2023-06-01";
 // USD per million tokens for the model above (Anthropic pricing page, checked 10 Oct 2026).
-// Only used for the small "≈ $" line under each answer.
-const PRICE_PER_MTOK = { input: 2, cacheWrite: 2.5, cacheRead: 0.10, output: 10 };
+// Only used for the small "≈ $" line under each answer. cacheWrite is the 1-hour cache rate,
+// because that is the only cache this page asks for (see CACHE_TTL below).
+const PRICE_PER_MTOK = { input: 2, cacheWrite: 4, cacheRead: 0.10, output: 10 };
+// How long Anthropic keeps the day's book material cached. "1h" costs more to write than the
+// default 5 minutes but survives the pauses while you read; set to "5m" to go back.
+const CACHE_TTL = "1h";
 const STORAGE_PREFIX = "aowd_";
 </script>
 <style>
@@ -188,7 +192,8 @@ const STORAGE_PREFIX = "aowd_";
   details.inner summary { cursor: pointer; font-size: 14px; color: var(--text-dim); padding: 6px 0; }
 
   /* more / settings */
-  details#more { margin: 28px 0 40px; background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 4px 14px; }
+  .notice-use { margin: 0 0 40px; font-size: 13px; line-height: 1.5; color: var(--text-dim); text-align: center; }
+  details#more { margin: 28px 0 20px; background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 4px 14px; }
   details#more > summary { min-height: 48px; display: flex; align-items: center; font-weight: 600; cursor: pointer; }
   details#more section { padding: 12px 0 14px; border-top: 1px solid var(--border); }
   details#more h4 { margin: 0 0 6px; font-size: 16px; }
@@ -305,6 +310,8 @@ const STORAGE_PREFIX = "aowd_";
       <p class="dim">To pretend it is another day, add <code>?date=2026-10-12</code> to the page address. Remove it to go back to the real date.</p>
     </section>
   </details>
+
+  <p class="notice-use">For personal use only. This is a private reading tool, not for commercial use, resale or redistribution. It includes Lionel Giles's 1910 translation for personal study only, so please don't copy or republish that text.</p>
 </div>
 
 <dialog id="sheet"><div class="sheet-body" id="sheetBody"></div><div class="sheet-foot"><button class="btn secondary" data-act="close-sheet">Close</button></div></dialog>
@@ -494,7 +501,7 @@ function materialFor(themeId) {
 function systemFor(themeId) {
   return [
     { type: 'text', text: SYSTEM_RULES },
-    { type: 'text', text: materialFor(themeId), cache_control: { type: 'ephemeral' } }
+    { type: 'text', text: materialFor(themeId), cache_control: { type: 'ephemeral', ttl: CACHE_TTL } }
   ];
 }
 
