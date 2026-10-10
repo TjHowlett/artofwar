@@ -1,0 +1,1400 @@
+[
+  {
+    "id": "strategic-assessment",
+    "name": "Strategic assessment",
+    "one_line": "Weighing the five factors and the seven comparisons before deciding whether and how to fight.",
+    "point_ids": [
+      "I.1",
+      "I.2",
+      "I.3",
+      "I.4",
+      "I.5-6",
+      "I.7",
+      "I.8",
+      "I.9",
+      "I.10",
+      "I.11",
+      "I.12",
+      "I.13",
+      "I.14",
+      "I.26",
+      "IV.17",
+      "IV.18",
+      "VI.24",
+      "X.21",
+      "X.22",
+      "X.27",
+      "X.28",
+      "X.29",
+      "XIII.4"
+    ],
+    "source_ids": [
+      "vinayan2013"
+    ]
+  },
+  {
+    "id": "political-cohesion",
+    "name": "Political cohesion",
+    "one_line": "The bond between people, ruler and army that lets a state act as one - and how rulers can break it.",
+    "point_ids": [
+      "I.5-6",
+      "I.13",
+      "II.20",
+      "III.11",
+      "III.12",
+      "III.13",
+      "III.14",
+      "III.15",
+      "III.16",
+      "IV.16",
+      "IX.42",
+      "IX.43",
+      "IX.45",
+      "X.25",
+      "X.26"
+    ],
+    "source_ids": [
+      "nylan2020-lithub",
+      "mcneilly1996-character"
+    ]
+  },
+  {
+    "id": "victory-without-battle",
+    "name": "Victory without battle",
+    "one_line": "The best win breaks resistance without fighting, or makes the fight a formality.",
+    "point_ids": [
+      "II.6",
+      "II.19",
+      "III.1",
+      "III.2",
+      "III.3",
+      "III.6",
+      "III.7",
+      "IV.11",
+      "IV.13",
+      "IV.15",
+      "VI.12",
+      "VI.22"
+    ],
+    "source_ids": [
+      "nylan2020-lithub",
+      "mcneilly1996-book",
+      "mcneilly2015-book"
+    ]
+  },
+  {
+    "id": "preservation",
+    "name": "Preservation and wholeness",
+    "one_line": "Take things whole rather than destroy them, because destruction cannot be undone.",
+    "point_ids": [
+      "II.16",
+      "II.17",
+      "II.18",
+      "II.20",
+      "III.1",
+      "III.6",
+      "III.7",
+      "XII.18",
+      "XII.20",
+      "XII.21",
+      "XII.22"
+    ],
+    "source_ids": [
+      "mcneilly1996-book"
+    ]
+  },
+  {
+    "id": "attacking-plans",
+    "name": "Attacking plans",
+    "one_line": "Defeat the enemy's strategy and connections before his army.",
+    "point_ids": [
+      "I.23",
+      "I.24",
+      "III.3",
+      "VI.22",
+      "VI.23",
+      "VIII.10",
+      "XI.15",
+      "XI.16",
+      "XI.18",
+      "XI.54",
+      "XI.66"
+    ],
+    "source_ids": [
+      "mcneilly1996-shape"
+    ]
+  },
+  {
+    "id": "avoiding-siege",
+    "name": "Avoiding siege",
+    "one_line": "Attacking strong walls is the worst option: slow, costly and driven by frustration.",
+    "point_ids": [
+      "II.2",
+      "II.3",
+      "III.3",
+      "III.4",
+      "III.5",
+      "VIII.3",
+      "XI.7"
+    ],
+    "source_ids": [
+      "mcneilly1996-avoid"
+    ]
+  },
+  {
+    "id": "deception",
+    "name": "Deception and perception",
+    "one_line": "Controlling what the enemy sees and believes.",
+    "point_ids": [
+      "I.18",
+      "I.19",
+      "I.20",
+      "I.22",
+      "I.25",
+      "V.16",
+      "V.17",
+      "V.18",
+      "V.19",
+      "VI.9",
+      "VI.25",
+      "VII.15",
+      "VII.19",
+      "VII.34",
+      "IX.21",
+      "IX.24",
+      "IX.26",
+      "IX.28",
+      "XI.36",
+      "XI.37",
+      "XI.60",
+      "XI.62",
+      "XI.68",
+      "XIII.11",
+      "XIII.12",
+      "XIII.23"
+    ],
+    "source_ids": [
+      "raphals2016",
+      "mcneilly1996-deception",
+      "fang2006"
+    ]
+  },
+  {
+    "id": "knowing-self-and-enemy",
+    "name": "Knowing self and enemy",
+    "one_line": "Knowledge of both sides - and of ground and weather - as the base of every decision.",
+    "point_ids": [
+      "I.12",
+      "I.13",
+      "I.14",
+      "III.17",
+      "III.18",
+      "VI.24",
+      "IX.41",
+      "X.27",
+      "X.28",
+      "X.29",
+      "X.31",
+      "XIII.2",
+      "XIII.6"
+    ],
+    "source_ids": [
+      "mcneilly1996-deception",
+      "nylan2020-translation"
+    ]
+  },
+  {
+    "id": "intelligence-and-spies",
+    "name": "Intelligence and spies",
+    "one_line": "Foreknowledge comes only from people, through a system of five kinds of spy.",
+    "point_ids": [
+      "IX.17",
+      "XIII.1",
+      "XIII.2",
+      "XIII.3",
+      "XIII.4",
+      "XIII.5",
+      "XIII.6",
+      "XIII.7",
+      "XIII.8",
+      "XIII.9",
+      "XIII.10",
+      "XIII.11",
+      "XIII.12",
+      "XIII.13",
+      "XIII.14",
+      "XIII.15",
+      "XIII.16",
+      "XIII.17",
+      "XIII.18",
+      "XIII.19",
+      "XIII.20",
+      "XIII.21",
+      "XIII.22",
+      "XIII.23",
+      "XIII.24",
+      "XIII.25",
+      "XIII.26",
+      "XIII.27"
+    ],
+    "source_ids": [
+      "mcneilly1996-deception",
+      "destafney2000"
+    ]
+  },
+  {
+    "id": "shi",
+    "name": "Strategic advantage (shi)",
+    "one_line": "Force that comes from position, configuration and timing rather than effort.",
+    "point_ids": [
+      "I.16",
+      "I.17",
+      "IV.20",
+      "V.12",
+      "V.13",
+      "V.14",
+      "V.15",
+      "V.21",
+      "V.22",
+      "V.23",
+      "VII.3",
+      "X.21",
+      "XI.33"
+    ],
+    "source_ids": [
+      "ames1993",
+      "mcneilly1996-shape",
+      "vinayan2013"
+    ]
+  },
+  {
+    "id": "direct-and-indirect",
+    "name": "Direct and indirect methods",
+    "one_line": "The expected move and the surprise move, endlessly combined.",
+    "point_ids": [
+      "V.3",
+      "V.5",
+      "V.6",
+      "V.7",
+      "V.8",
+      "V.9",
+      "V.10",
+      "V.11",
+      "VII.3",
+      "VII.4",
+      "VII.22",
+      "XI.68"
+    ],
+    "source_ids": [
+      "mcneilly1996-avoid"
+    ]
+  },
+  {
+    "id": "weakness-and-strength",
+    "name": "Weakness and strength",
+    "one_line": "Avoid what is strong, strike what is weak - and make the enemy weak where you strike.",
+    "point_ids": [
+      "I.21",
+      "V.4",
+      "VI.5",
+      "VI.7",
+      "VI.8",
+      "VI.10",
+      "VI.13",
+      "VI.14",
+      "VI.15",
+      "VI.16",
+      "VI.17",
+      "VI.18",
+      "VI.29",
+      "VI.30",
+      "VII.29",
+      "VII.32"
+    ],
+    "source_ids": [
+      "metcalf2016",
+      "mcneilly1996-avoid"
+    ]
+  },
+  {
+    "id": "formlessness",
+    "name": "Formlessness and concealment",
+    "one_line": "Give the enemy no fixed shape to read or aim at.",
+    "point_ids": [
+      "I.25",
+      "IV.7",
+      "VI.8",
+      "VI.9",
+      "VI.16",
+      "VI.25",
+      "VI.26",
+      "VI.27",
+      "VI.28",
+      "VI.32",
+      "VII.19",
+      "XI.22",
+      "XI.35",
+      "XI.37"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "mcneilly1996-shape"
+    ]
+  },
+  {
+    "id": "shaping-the-opponent",
+    "name": "Shaping the opponent",
+    "one_line": "Changing the enemy's options so that his response serves you.",
+    "point_ids": [
+      "I.20",
+      "I.22",
+      "I.23",
+      "V.19",
+      "V.20",
+      "VI.2",
+      "VI.3",
+      "VI.4",
+      "VI.11",
+      "VI.12",
+      "VI.23",
+      "VIII.10",
+      "IX.16",
+      "X.7",
+      "X.11",
+      "XI.18",
+      "XI.60",
+      "XI.61",
+      "XI.62",
+      "XI.66"
+    ],
+    "source_ids": [
+      "mcneilly1996-shape"
+    ]
+  },
+  {
+    "id": "speed-and-timing",
+    "name": "Speed and timing",
+    "one_line": "Prepared, well-timed speed - and the cost of haste that breaks the army.",
+    "point_ids": [
+      "II.5",
+      "II.19",
+      "V.13",
+      "V.14",
+      "V.15",
+      "VI.10",
+      "VII.6",
+      "VII.7",
+      "VII.8",
+      "VII.9",
+      "VII.10",
+      "VII.17",
+      "VII.19",
+      "XI.19",
+      "XI.65",
+      "XI.68",
+      "XII.6",
+      "XII.8",
+      "XII.9"
+    ],
+    "source_ids": [
+      "mcneilly1996-speed"
+    ]
+  },
+  {
+    "id": "adaptability",
+    "name": "Adaptability and variation",
+    "one_line": "No fixed method: fit the response to the situation in front of you.",
+    "point_ids": [
+      "I.16",
+      "I.17",
+      "III.15",
+      "V.10",
+      "V.11",
+      "VI.28",
+      "VI.31",
+      "VI.32",
+      "VI.33",
+      "VI.34",
+      "VII.16",
+      "VIII.4",
+      "VIII.5",
+      "VIII.6",
+      "XI.37",
+      "XI.60",
+      "XI.67"
+    ],
+    "source_ids": [
+      "vinayan2013",
+      "ames1993"
+    ]
+  },
+  {
+    "id": "terrain",
+    "name": "Terrain and environment",
+    "one_line": "How ground, distance and landscape shape every option.",
+    "point_ids": [
+      "I.8",
+      "IV.18",
+      "VII.13",
+      "VII.14",
+      "VIII.2",
+      "VIII.5",
+      "IX.1",
+      "IX.2",
+      "IX.3",
+      "IX.4",
+      "IX.5",
+      "IX.6",
+      "IX.7",
+      "IX.8",
+      "IX.9",
+      "IX.10",
+      "IX.11",
+      "IX.12",
+      "IX.13",
+      "IX.14",
+      "IX.15",
+      "IX.16",
+      "IX.17",
+      "X.1",
+      "X.2",
+      "X.3",
+      "X.4",
+      "X.5",
+      "X.6",
+      "X.7",
+      "X.8",
+      "X.9",
+      "X.10",
+      "X.11",
+      "X.12",
+      "X.13",
+      "X.21",
+      "X.29",
+      "X.31",
+      "XI.33",
+      "XI.52"
+    ],
+    "source_ids": [
+      "ames1993",
+      "mcneilly1996-book"
+    ]
+  },
+  {
+    "id": "manoeuvre",
+    "name": "Manoeuvre and indirection",
+    "one_line": "Turning the long way into the quick way without losing the army.",
+    "point_ids": [
+      "VI.1",
+      "VI.5",
+      "VI.6",
+      "VI.10",
+      "VI.11",
+      "VII.3",
+      "VII.4",
+      "VII.5",
+      "VII.6",
+      "VII.7",
+      "VII.8",
+      "VII.9",
+      "VII.10",
+      "VII.11",
+      "VII.22",
+      "XI.19",
+      "XI.37"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "mcneilly1996-shape"
+    ]
+  },
+  {
+    "id": "concentration-of-force",
+    "name": "Concentration of force",
+    "one_line": "Be many where it counts by making the enemy spread thin.",
+    "point_ids": [
+      "III.8",
+      "III.9",
+      "III.10",
+      "V.1",
+      "V.21",
+      "VI.13",
+      "VI.14",
+      "VI.15",
+      "VI.16",
+      "VI.17",
+      "VI.18",
+      "VI.19",
+      "VI.20",
+      "VII.16",
+      "IX.40",
+      "XI.22"
+    ],
+    "source_ids": [
+      "mcneilly1996-avoid"
+    ]
+  },
+  {
+    "id": "logistics-and-cost",
+    "name": "Logistics and economic cost",
+    "one_line": "Supply lines, prices, taxes and the drain war puts on the state and its people.",
+    "point_ids": [
+      "I.10",
+      "II.1",
+      "II.2",
+      "II.3",
+      "II.4",
+      "II.8",
+      "II.9",
+      "II.10",
+      "II.11",
+      "II.12",
+      "II.13-14",
+      "II.15",
+      "VII.6",
+      "VII.11",
+      "X.3",
+      "XI.13",
+      "XI.21",
+      "XI.49",
+      "XII.1",
+      "XIII.1",
+      "XIII.2"
+    ],
+    "source_ids": [
+      "mccaffrey2014",
+      "mcneilly1996-book",
+      "vinayan2012"
+    ]
+  },
+  {
+    "id": "preparation",
+    "name": "Preparation before engagement",
+    "one_line": "Make yourself safe from defeat first; be ready before the chance appears.",
+    "point_ids": [
+      "I.26",
+      "III.17",
+      "IV.1",
+      "IV.2",
+      "IV.3",
+      "IV.14",
+      "IV.15",
+      "VI.1",
+      "VII.21",
+      "VIII.11",
+      "X.30",
+      "XII.2",
+      "XII.12",
+      "XII.16"
+    ],
+    "source_ids": [
+      "mcneilly1996-speed"
+    ]
+  },
+  {
+    "id": "leadership-character",
+    "name": "Leadership character",
+    "one_line": "The balanced qualities a commander needs, and how each can tip into a fault.",
+    "point_ids": [
+      "I.9",
+      "III.11",
+      "IV.16",
+      "VII.27",
+      "VIII.12",
+      "VIII.13",
+      "VIII.14",
+      "IX.45",
+      "X.21",
+      "X.24",
+      "X.25",
+      "X.26",
+      "XI.35",
+      "XIII.15",
+      "XIII.16",
+      "XIII.17"
+    ],
+    "source_ids": [
+      "mcneilly2015-character",
+      "nylan2020-lithub",
+      "ivey2022"
+    ]
+  },
+  {
+    "id": "discipline-and-organisation",
+    "name": "Discipline and organisation",
+    "one_line": "Units, signals, ranks and enforced orders that let a large force act in order.",
+    "point_ids": [
+      "I.10",
+      "I.13",
+      "V.1",
+      "V.2",
+      "V.16",
+      "V.17",
+      "V.18",
+      "VII.2",
+      "VII.5",
+      "VII.23",
+      "VII.24",
+      "VII.25",
+      "VII.26",
+      "IX.33",
+      "IX.42",
+      "IX.43",
+      "IX.44",
+      "X.16",
+      "X.18"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "vinayan2013"
+    ]
+  },
+  {
+    "id": "morale",
+    "name": "Morale and cohesion",
+    "one_line": "Fighting spirit rises and falls - with leadership, rest, food and situation.",
+    "point_ids": [
+      "I.5-6",
+      "II.2",
+      "II.16",
+      "VII.27",
+      "VII.28",
+      "VII.29",
+      "VII.30",
+      "VII.34",
+      "IX.29",
+      "IX.30",
+      "IX.31",
+      "IX.33",
+      "IX.35",
+      "X.25",
+      "XI.20",
+      "XI.23",
+      "XI.24",
+      "XI.25",
+      "XI.28",
+      "XI.32",
+      "XI.42"
+    ],
+    "source_ids": [
+      "mcneilly2015-character",
+      "nylan2020-lithub",
+      "vinayan2013"
+    ]
+  },
+  {
+    "id": "command-autonomy",
+    "name": "Command autonomy",
+    "one_line": "The ruler sets the aim; the general needs freedom over how to achieve it.",
+    "point_ids": [
+      "I.15",
+      "III.12",
+      "III.13",
+      "III.14",
+      "III.15",
+      "III.17",
+      "VII.1",
+      "VIII.1",
+      "VIII.3",
+      "X.23",
+      "X.24"
+    ],
+    "source_ids": [
+      "mcneilly2015-character",
+      "kuo2007"
+    ]
+  },
+  {
+    "id": "psychological-dislocation",
+    "name": "Psychological dislocation",
+    "one_line": "Unsettling the enemy's judgement and cohesion rather than his body.",
+    "point_ids": [
+      "I.22",
+      "I.23",
+      "VI.12",
+      "VII.27",
+      "VII.29",
+      "VII.30",
+      "VIII.10",
+      "IX.32",
+      "IX.39",
+      "XI.15",
+      "XI.16",
+      "XI.18"
+    ],
+    "source_ids": [
+      "fang2006"
+    ]
+  },
+  {
+    "id": "emotional-control",
+    "name": "Emotional control and restraint",
+    "one_line": "Anger, pride and fear make a commander predictable and destructive.",
+    "point_ids": [
+      "I.22",
+      "III.5",
+      "VII.27",
+      "VII.30",
+      "VIII.12",
+      "X.17",
+      "X.24",
+      "XI.35",
+      "XI.64",
+      "XII.18",
+      "XII.19",
+      "XII.20",
+      "XII.21",
+      "XII.22"
+    ],
+    "source_ids": [
+      "mcneilly2015-character"
+    ]
+  },
+  {
+    "id": "desperate-ground",
+    "name": "Commitment and desperate ground",
+    "one_line": "Removing the way back makes soldiers fight - so do it to yourself, not the enemy.",
+    "point_ids": [
+      "VII.36",
+      "VIII.2",
+      "IX.34",
+      "X.5",
+      "XI.10",
+      "XI.14",
+      "XI.23",
+      "XI.24",
+      "XI.25",
+      "XI.28",
+      "XI.31",
+      "XI.38",
+      "XI.39",
+      "XI.40",
+      "XI.45",
+      "XI.50",
+      "XI.51",
+      "XI.58",
+      "XI.59"
+    ],
+    "source_ids": [
+      "ivey2022"
+    ]
+  },
+  {
+    "id": "fire",
+    "name": "Fire and catalytic forces",
+    "one_line": "Using fire (and water) as amplifiers - with season, wind and follow-up all mattering.",
+    "point_ids": [
+      "XII.1",
+      "XII.2",
+      "XII.3",
+      "XII.4",
+      "XII.5",
+      "XII.6",
+      "XII.7",
+      "XII.8",
+      "XII.9",
+      "XII.10",
+      "XII.11",
+      "XII.12",
+      "XII.13",
+      "XII.14"
+    ],
+    "source_ids": [
+      "destafney2000"
+    ]
+  },
+  {
+    "id": "rewards-and-punishment",
+    "name": "Rewards, punishment and incentives",
+    "one_line": "Consistent incentives, and what over-use of rewards or punishments reveals.",
+    "point_ids": [
+      "I.13",
+      "II.16",
+      "II.17",
+      "VII.20",
+      "IX.36",
+      "IX.42",
+      "IX.43",
+      "IX.44",
+      "XI.27",
+      "XI.56",
+      "XIII.2",
+      "XIII.14",
+      "XIII.19",
+      "XIII.21",
+      "XIII.25"
+    ],
+    "source_ids": [
+      "mccaffrey2014",
+      "mcneilly2015-character"
+    ]
+  },
+  {
+    "id": "reading-signs",
+    "name": "Reading signs and reconnaissance",
+    "one_line": "Inferring the enemy's state and intent from what can be seen and heard.",
+    "point_ids": [
+      "VI.23",
+      "VII.32",
+      "IX.1",
+      "IX.17",
+      "IX.18",
+      "IX.19",
+      "IX.20",
+      "IX.21",
+      "IX.22",
+      "IX.23",
+      "IX.24",
+      "IX.25",
+      "IX.26",
+      "IX.27",
+      "IX.28",
+      "IX.29",
+      "IX.30",
+      "IX.31",
+      "IX.32",
+      "IX.33",
+      "IX.34",
+      "IX.35",
+      "IX.36",
+      "IX.37",
+      "IX.38",
+      "IX.39"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "mcneilly1996-deception"
+    ]
+  },
+  {
+    "id": "captured-resources",
+    "name": "Captured personnel and resources",
+    "one_line": "Turning what you take from the enemy into your own strength.",
+    "point_ids": [
+      "II.9",
+      "II.15",
+      "II.16",
+      "II.17",
+      "II.18",
+      "III.1",
+      "VII.20",
+      "XI.13",
+      "XI.21",
+      "XIII.21"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "mcneilly1996-book"
+    ]
+  },
+  {
+    "id": "communications",
+    "name": "Communications and coordination",
+    "one_line": "Gongs, drums, flags and banners that make many act as one.",
+    "point_ids": [
+      "V.1",
+      "V.2",
+      "VII.23",
+      "VII.24",
+      "VII.25",
+      "VII.26",
+      "IX.33",
+      "X.18"
+    ],
+    "source_ids": [
+      "destafney2000",
+      "mcneilly2015-character"
+    ]
+  },
+  {
+    "id": "nine-grounds",
+    "name": "The nine grounds",
+    "one_line": "Nine situations an invading army can be in, each with its own rule.",
+    "point_ids": [
+      "VIII.2",
+      "XI.1",
+      "XI.2",
+      "XI.3",
+      "XI.4",
+      "XI.5",
+      "XI.6",
+      "XI.7",
+      "XI.8",
+      "XI.9",
+      "XI.10",
+      "XI.11",
+      "XI.12",
+      "XI.13",
+      "XI.14",
+      "XI.41",
+      "XI.42",
+      "XI.43",
+      "XI.44",
+      "XI.45",
+      "XI.46",
+      "XI.47",
+      "XI.48",
+      "XI.49",
+      "XI.50"
+    ],
+    "source_ids": [
+      "ames1993",
+      "mcneilly1996-book"
+    ]
+  },
+  {
+    "id": "five-faults",
+    "name": "The five dangerous faults",
+    "one_line": "Recklessness, cowardice, temper, touchy honour and over-concern - strengths tipped too far.",
+    "point_ids": [
+      "I.22",
+      "III.5",
+      "VIII.12",
+      "VIII.13",
+      "VIII.14",
+      "X.17",
+      "XII.18"
+    ],
+    "source_ids": [
+      "ivey2022",
+      "mcneilly2015-character"
+    ]
+  },
+  {
+    "id": "alliances",
+    "name": "Coalition and alliance strategy",
+    "one_line": "Knowing neighbours' intentions, holding crossroads, and stopping enemy coalitions.",
+    "point_ids": [
+      "II.4",
+      "III.3",
+      "III.16",
+      "VII.12",
+      "VIII.2",
+      "XI.6",
+      "XI.12",
+      "XI.43",
+      "XI.48",
+      "XI.52",
+      "XI.54",
+      "XI.55"
+    ],
+    "source_ids": [
+      "vinayan2013",
+      "fang2006"
+    ]
+  },
+  {
+    "id": "text-and-translation",
+    "name": "Text and translation problems",
+    "one_line": "Points where the wording, numbering or meaning of the received text is uncertain.",
+    "point_ids": [
+      "I.5-6",
+      "I.15",
+      "II.10",
+      "II.13-14",
+      "IV.6",
+      "VI.7",
+      "VII.12",
+      "VII.25",
+      "VIII.1",
+      "VIII.3",
+      "VIII.6",
+      "IX.42",
+      "XI.42",
+      "XI.43",
+      "XI.52",
+      "XI.53",
+      "XI.56",
+      "XI.59",
+      "XII.15"
+    ],
+    "source_ids": [
+      "ames1993",
+      "rand2012"
+    ]
+  },
+  {
+    "id": "initiative",
+    "name": "Holding the initiative",
+    "one_line": "Make the enemy respond to you, not the other way round.",
+    "point_ids": [
+      "I.23",
+      "VI.1",
+      "VI.2",
+      "VI.3",
+      "VI.4",
+      "VI.11",
+      "VI.12",
+      "VIII.10",
+      "XI.18",
+      "XI.65",
+      "XI.66"
+    ],
+    "source_ids": [
+      "mcneilly1996-shape"
+    ]
+  },
+  {
+    "id": "baits-and-lures",
+    "name": "Baits and lures",
+    "one_line": "Offering something the other side will grab - and refusing the baits offered to you.",
+    "point_ids": [
+      "I.20",
+      "V.19",
+      "V.20",
+      "VI.3",
+      "VII.34",
+      "VII.35",
+      "VIII.10",
+      "IX.20",
+      "IX.28",
+      "X.7",
+      "X.11"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "fresh-and-tired",
+    "name": "Fresh troops and tired troops",
+    "one_line": "Rest, hunger and exhaustion as weapons - yours to protect, the enemy's to exploit.",
+    "point_ids": [
+      "I.23",
+      "II.2",
+      "VI.1",
+      "VI.4",
+      "VII.7",
+      "VII.8",
+      "VII.28",
+      "VII.29",
+      "VII.31",
+      "IX.29",
+      "IX.31",
+      "XI.22",
+      "XIII.1"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "limits-of-control",
+    "name": "What you cannot control",
+    "one_line": "You can make yourself safe from defeat, but victory depends partly on the enemy.",
+    "point_ids": [
+      "IV.2",
+      "IV.3",
+      "IV.4",
+      "IV.14",
+      "VI.2",
+      "VIII.11",
+      "X.27",
+      "X.28",
+      "X.29"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "invisible-skill",
+    "name": "Skill that goes unnoticed",
+    "one_line": "The best victories look easy and win no praise.",
+    "point_ids": [
+      "IV.8",
+      "IV.9",
+      "IV.10",
+      "IV.11",
+      "IV.12",
+      "IV.13",
+      "VI.26",
+      "VI.27",
+      "X.24"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "army-as-one-body",
+    "name": "The army as a single body",
+    "one_line": "Unity so complete the army moves like one person or one snake.",
+    "point_ids": [
+      "III.17",
+      "V.21",
+      "VI.14",
+      "VII.24",
+      "VII.25",
+      "XI.29",
+      "XI.30",
+      "XI.32",
+      "XI.34",
+      "XI.46",
+      "XI.56"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "own-side-in-the-dark",
+    "name": "Keeping your own side in the dark",
+    "one_line": "Secrecy aimed at your own troops, not just the enemy.",
+    "point_ids": [
+      "I.25",
+      "XI.36",
+      "XI.38",
+      "XI.39",
+      "XI.57",
+      "XI.63",
+      "XIII.14",
+      "XIII.19"
+    ],
+    "source_ids": [
+      "destafney2000"
+    ]
+  },
+  {
+    "id": "limits-of-numbers",
+    "name": "When numbers do not decide",
+    "one_line": "Total numbers matter less than numbers at the point of contact.",
+    "point_ids": [
+      "III.8",
+      "III.9",
+      "III.10",
+      "IV.19",
+      "VI.14",
+      "VI.18",
+      "VI.21",
+      "VI.22",
+      "IX.40",
+      "X.15",
+      "X.19",
+      "XI.18"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "images-from-nature",
+    "name": "Images from nature",
+    "one_line": "Water, stones, falcons, crossbows, wind and snakes as ways of thinking about force.",
+    "point_ids": [
+      "IV.10",
+      "IV.19",
+      "IV.20",
+      "V.6",
+      "V.12",
+      "V.13",
+      "V.15",
+      "V.22",
+      "V.23",
+      "VI.29",
+      "VI.31",
+      "VI.32",
+      "VI.34",
+      "VII.17",
+      "VII.18",
+      "VII.19",
+      "XI.29",
+      "XI.68"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "move-only-for-advantage",
+    "name": "Move only for advantage",
+    "one_line": "Act when there is something real to gain; otherwise stay put.",
+    "point_ids": [
+      "II.7",
+      "VII.15",
+      "VIII.7",
+      "VIII.8",
+      "VIII.9",
+      "X.23",
+      "XI.17",
+      "XII.15",
+      "XII.17",
+      "XII.19"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "generals-responsibility",
+    "name": "The general's responsibility",
+    "one_line": "Defeat traces back to the commander's faults, not to bad luck.",
+    "point_ids": [
+      "I.11",
+      "II.20",
+      "III.11",
+      "VIII.14",
+      "X.13",
+      "X.14",
+      "X.20",
+      "X.22",
+      "X.24",
+      "XI.40",
+      "XIII.3"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "things-not-to-do",
+    "name": "Things not to do",
+    "one_line": "Sun Tzu's explicit prohibitions: positions, enemies and orders to leave alone.",
+    "point_ids": [
+      "III.4",
+      "VII.33",
+      "VII.34",
+      "VII.35",
+      "VII.36",
+      "VII.37",
+      "VIII.2",
+      "VIII.3",
+      "IX.2",
+      "IX.4",
+      "IX.5",
+      "IX.6",
+      "IX.15",
+      "X.9",
+      "X.11",
+      "XI.11",
+      "XI.12",
+      "XII.10"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "short-and-long-wars",
+    "name": "Short wars and long wars",
+    "one_line": "Delay drains everything; victory, not duration, is the aim.",
+    "point_ids": [
+      "II.2",
+      "II.3",
+      "II.4",
+      "II.5",
+      "II.6",
+      "II.19",
+      "III.4",
+      "III.6",
+      "XII.15",
+      "XIII.2"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "high-ground",
+    "name": "High ground and the sunny side",
+    "one_line": "Prefer height and sun for camps and positions; never attack uphill.",
+    "point_ids": [
+      "VII.33",
+      "IX.2",
+      "IX.6",
+      "IX.9",
+      "IX.11",
+      "IX.12",
+      "IX.13",
+      "X.3",
+      "X.10"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "heaven-weather-season",
+    "name": "Heaven: weather, season and time",
+    "one_line": "The timing factor - day and night, seasons, wind and rain.",
+    "point_ids": [
+      "I.4",
+      "I.7",
+      "I.13",
+      "VI.34",
+      "VII.28",
+      "IX.14",
+      "X.31",
+      "XII.3",
+      "XII.4",
+      "XII.11",
+      "XII.12"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "omens-and-evidence",
+    "name": "Omens versus evidence",
+    "one_line": "Knowledge must come from people and observation, not spirits or signs.",
+    "point_ids": [
+      "I.26",
+      "XI.26",
+      "XII.4",
+      "XIII.5",
+      "XIII.6",
+      "XIII.17"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "hard-moral-questions",
+    "name": "Hard moral questions",
+    "one_line": "Points a modern reader will find harsh - executions, assassination, deceiving your own men, plunder.",
+    "point_ids": [
+      "II.17",
+      "III.5",
+      "VII.20",
+      "XI.13",
+      "XI.23",
+      "XI.36",
+      "XI.50",
+      "XI.58",
+      "XII.21",
+      "XIII.2",
+      "XIII.19",
+      "XIII.20",
+      "XIII.21"
+    ],
+    "source_ids": [
+      "raphals2016"
+    ]
+  },
+  {
+    "id": "defence-and-attack",
+    "name": "Defence and attack",
+    "one_line": "What defending and attacking each require, and when each fits.",
+    "point_ids": [
+      "IV.1",
+      "IV.5",
+      "IV.6",
+      "IV.7",
+      "VI.7",
+      "VI.8",
+      "VI.10",
+      "VIII.11",
+      "X.8",
+      "X.10"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "envoys-and-peace-signals",
+    "name": "Envoys and peace signals",
+    "one_line": "Reading - and controlling - diplomatic contact.",
+    "point_ids": [
+      "VII.12",
+      "IX.24",
+      "IX.26",
+      "IX.38",
+      "XI.52",
+      "XI.63"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "paired-opposites",
+    "name": "Opposites that turn into each other",
+    "one_line": "Order and disorder, gain and harm, direct and indirect as linked pairs.",
+    "point_ids": [
+      "I.19",
+      "II.7",
+      "IV.6",
+      "V.11",
+      "V.16",
+      "V.17",
+      "V.18",
+      "VI.34",
+      "VII.3",
+      "VIII.7",
+      "VIII.9",
+      "XII.20"
+    ],
+    "source_ids": []
+  }
+]

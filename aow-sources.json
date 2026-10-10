@@ -1,0 +1,222 @@
+[
+  {
+    "id": "giles1910",
+    "title": "Sun Tzŭ on the Art of War: The Oldest Military Treatise in the World",
+    "author": "Lionel Giles (translator)",
+    "year": 1910,
+    "url": "https://www.gutenberg.org/files/132/132-h/132-h.htm",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Page is Giles's 1910 translation with commentary, with paragraphs numbered per chapter, as the report says. The page does not state copyright status. Report says public domain in the US but in copyright in Australia until the end of 2028 (Giles died 1958), so public_domain is false here. The points file uses Gutenberg eBook #17405, the same text without commentary."
+  },
+  {
+    "id": "vinayan2013",
+    "title": "Application of Sun Tzu Art of War Strategies in Different Stages of Organizational Life Cycle: A Study in Malaysian Manufacturing Organizations",
+    "author": "Gowrie Vinayan, Yong Hoe Hong and Nasreen Khan",
+    "year": 2013,
+    "url": "https://ajbasweb.com/old/ajbas/2013/September/551-563.pdf",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: 300 Malaysian manufacturing organisations, the four dimensions (situation appraisal, strategic planning, leadership, employee motivation), structural equation modelling, and mentions of flexibility and alliances."
+  },
+  {
+    "id": "nylan2020-lithub",
+    "title": "The Art of War Is Actually a Manual on How to Avoid It",
+    "author": "Michael Nylan",
+    "year": 2020,
+    "url": "https://lithub.com/the-art-of-war-is-actually-a-manual-on-how-to-avoid-it/",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: avoiding war, long-term safety, enduring trust, common-good leadership, leaders' self-discipline. Not supported: preservation (only indirect) and emotional restraint (the article stresses emotion instead). Removed from the preservation and emotional-control themes and from link III.1-XII.21 for that reason."
+  },
+  {
+    "id": "mcneilly1996-character",
+    "title": "Character-Based Leadership: Providing Effective Leadership in Turbulent Times (chapter in Sun Tzu and the Art of Business)",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125/chapter/421066563",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists, but only a cut-off abstract is visible. The report's claims (character, sharing hardship, credibility) could not be confirmed."
+  },
+  {
+    "id": "mcneilly1996-book",
+    "title": "Sun Tzu and the Art of Business: Six Strategic Principles for Managers",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Book page exists (Oxford University Press, 1996) and confirms it applies Sun Tzu to business. The specific claims the report attributes to it could not be seen on the page."
+  },
+  {
+    "id": "mcneilly2015-book",
+    "title": "Sun Tzu and the Art of Modern Warfare (revised edition)",
+    "author": "Mark R. McNeilly",
+    "year": 2015,
+    "url": "https://academic.oup.com/book/6276",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Book page exists (Oxford University Press, January 2015). Its argument is not shown on the page, so the report's claims could not be confirmed."
+  },
+  {
+    "id": "nylan2020-translation",
+    "title": "The Art of War: A New Translation",
+    "author": "Michael Nylan (translator)",
+    "year": 2020,
+    "url": "https://www.barnesandnoble.com/w/the-art-of-war-sun-tzu/1131665862",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Description confirms the point about anticipating competitors' motivations (used for the knowing-self-and-enemy theme). It does not mention relationships or games, so it was removed from the preservation theme. Publisher and year not shown on this page."
+  },
+  {
+    "id": "mcneilly1996-shape",
+    "title": "Shape Your Opponent: Employing Strategy to Master the Competition (chapter in Sun Tzu and the Art of Business)",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125/chapter/421066552",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists. The visible abstract supports taking the initiative and setting the terms of the contest. Hiding intent and changing the basis of competition could not be confirmed, so left unchecked."
+  },
+  {
+    "id": "mcneilly1996-avoid",
+    "title": "Avoid Strength, Attack Weakness: Striking Where They Least Expect It (chapter in Sun Tzu and the Art of Business)",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125/chapter/421066510",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists, but the visible abstract only describes a 1991 Gulf War example. The report's business claims could not be confirmed."
+  },
+  {
+    "id": "raphals2016",
+    "title": "Sunzi versus Xunzi: Two Views of Deception and Indirection",
+    "author": "Lisa Raphals",
+    "year": 2016,
+    "url": "https://www.cambridge.org/core/product/C1C5F934239AF76235BCC5D7B6831735",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: Early China vol. 39, pp. 185-229. The abstract treats deception as a defining feature of the Sunzi and says the Xunzi rejects deception. The report's URL (ending C1C5F93423) is cut short and failed to load; this URL is the working one, found by web search and then opened."
+  },
+  {
+    "id": "mcneilly1996-deception",
+    "title": "Deception and Foreknowledge: Maximizing the Power of Market Information (chapter in Sun Tzu and the Art of Business)",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125/chapter/421066524",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists. The visible abstract supports foreknowledge; the claims about deception and competitor research could not be confirmed, so left unchecked."
+  },
+  {
+    "id": "fang2006",
+    "title": "Negotiation: The Chinese Style",
+    "author": "Tony Fang",
+    "year": 2006,
+    "url": "https://doi.org/10.1108/08858620610643175",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. The DOI redirects to Emerald, which showed a bot-check (CAPTCHA) page. A second record page was also blocked. A web search earlier found the title at this DOI, so it exists, but the claims could not be confirmed."
+  },
+  {
+    "id": "destafney2000",
+    "title": "The Art of War: A Sun Tzu-ian Look at the Operational Functions",
+    "author": "Robert W. DeStafney",
+    "year": 2000,
+    "url": "https://apps.dtic.mil/sti/tr/pdf/ADA382119.pdf",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. The fetch failed on this URL and on DTIC's alternative /sti/pdfs/ path. Existence not confirmed. The report calls it a US government work approved for public release; public-domain status outside the US not confirmed."
+  },
+  {
+    "id": "ames1993",
+    "title": "Sun-Tzu: The Art of Warfare: The First English Translation Incorporating the Recently Discovered Yin-ch'üeh-shan Texts",
+    "author": "Roger T. Ames",
+    "year": 1993,
+    "url": "https://www.booktopia.com.au/sun-tzu-the-art-of-warfare-roger-t-ames/book/9780345362391.html",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Page exists (listed as 'Classics of Ancient China: The First English Translation Incorporating the Recently Discovered Yin-ch'ueh-shan Texts', 1993). It confirms the Yinqueshan connection but says nothing about shi, so the claims about shi could not be confirmed."
+  },
+  {
+    "id": "metcalf2016",
+    "title": "New Perspectives on the Sunzi (Sun Tzu) from Contemporary Chinese Military Writings",
+    "author": "Mark Metcalf",
+    "year": 2016,
+    "url": "https://www.asianstudies.org/publications/eaa/archives/new-perspectives-on-the-sunzi-sun-tzu-from-contemporary-chinese-military-writings/",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: lists translators' renderings of the Chapter VI weak/strong pair (empty/full, vacuity/substance, emptiness/solidity). It does not discuss direct and indirect, so it was removed from that theme. Author and year confirmed from the report's second URL, https://www.educationaboutasia.org/article/1373/galley/3039/download/ (Spring 2016, vol. 21 no. 1)."
+  },
+  {
+    "id": "mcneilly1996-speed",
+    "title": "Speed and Preparation: Moving Swiftly to Overcome Your Competitors (chapter in Sun Tzu and the Art of Business)",
+    "author": "Mark R. McNeilly",
+    "year": 1996,
+    "url": "https://academic.oup.com/book/52125/chapter-abstract/421066539",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists. The visible abstract supports the importance of speed; the link between speed and preparation could not be confirmed, so left unchecked."
+  },
+  {
+    "id": "mccaffrey2014",
+    "title": "The Political Economy of The Art of War",
+    "author": "Matthew McCaffrey",
+    "year": 2014,
+    "url": "https://doi.org/10.1080/01495933.2014.941725",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Fetch failed on the DOI and on the Taylor & Francis page. Two web searches did not find the article; they found a different McCaffrey paper, 'The economics of peace and war in the Chinese military classics' (2015). Treat as unconfirmed."
+  },
+  {
+    "id": "vinayan2012",
+    "title": "Sun Tzu Art of War Strategies and Supply Chain Management as a Strategic Change Agent: A Proposed Model for Malaysian Service Sector",
+    "author": "Gowrie Vinayan, Sreenivasan Jayashree and Govindan Marthandan",
+    "year": 2012,
+    "url": "https://www.inderscience.com/offer.php?id=51852",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: a conceptual paper proposing a model linking Sun Tzu strategies, supply chain management and competitive advantage, as the report says. The report's DOI failed to load; this publisher page (matching the DOI) was opened instead. The page lists three authors; the report named only Vinayan."
+  },
+  {
+    "id": "mcneilly2015-character",
+    "title": "Character-Based Leadership: Leading by Example (chapter in Sun Tzu and the Art of Modern Warfare)",
+    "author": "Mark R. McNeilly",
+    "year": 2015,
+    "url": "https://academic.oup.com/book/6276/chapter-abstract/149942600",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Chapter page exists, but the abstract is cut off before its argument. The report's claims (leading by example, sharing hardship, rewards) could not be confirmed."
+  },
+  {
+    "id": "ivey2022",
+    "title": "Leadership and 'The Art of War'",
+    "author": "Andriy Rozhdestvenskyi, Serhiy Lesnyak and Serhiy Sobko (Ivey Business School blog)",
+    "year": 2022,
+    "url": "https://www.ivey.uwo.ca/leadership/for-leaders/blogs/2022/03/leadership-and-the-art-of-war/",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: uses the five dangers to argue they show a leader's character more than competencies, and discusses the 'place of death' as greatest pressure. The report gave the author as the school; the page names three authors."
+  },
+  {
+    "id": "kuo2007",
+    "title": "Sun Tzu's War Theory in the Twenty First Century",
+    "author": "Li-sheng Arthur Kuo",
+    "year": 2007,
+    "url": "https://apps.dtic.mil/sti/tr/pdf/ADA470026.pdf",
+    "public_domain": false,
+    "checked": true,
+    "check_note": "Opened 10 Oct 2026. Confirmed: discusses the general not being interfered with by the sovereign, and delegation of authority to commanders. The report wrongly gave the author as Mehmet Kocaoğlu and the year as 2006; the paper itself names Li-sheng Arthur Kuo (Taiwan), US Army War College, 26 March 2007. Same title and URL as the report, so the ID was changed from kocaoglu2006 to kuo2007. Public-domain status not confirmed."
+  },
+  {
+    "id": "rand2012",
+    "title": "Sunzi in Early Chinese Manuscripts",
+    "author": "Christopher Rand",
+    "year": 2012,
+    "url": "https://www.cambridge.org/core/books/abs/writing-and-literacy-in-early-china/sunzi-in-early-chinese-manuscripts/5499A40C72F27",
+    "public_domain": false,
+    "checked": false,
+    "check_note": "Opened 10 Oct 2026. Fetch failed; the URL looks truncated. A web search did not find this chapter, and the report's details are inconsistent. Treat as unconfirmed and possibly misattributed."
+  }
+]
