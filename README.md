@@ -6,6 +6,7 @@ A daily reading page for Sun Tzu's *The Art of War* (Lionel Giles, 1910). One th
 - `aow-points.json`, `aow-themes.json`, `aow-links.json`, `aow-sources.json` are the source data.
 - After editing any `aow-*.json`, run `python embed-data.py` to copy the data into `index.html`.
 - The AI model name is the `MODEL` constant at the top of `index.html`.
+- The look is TJ's Deep Jade theme (the CSS is pasted in at the top of the page's style section, and the Inter Tight font is built in). The embedded book data lines are separate and are not touched by the theme.
 
 Your Anthropic API key is typed into the page and kept only in that browser's local storage. It is never stored in this repository and never included in the page's backup file.
 
